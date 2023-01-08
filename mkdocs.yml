@@ -3,6 +3,7 @@ site_description: "Onboarding process for the ACME Dynamite coorporation"
 
 nav:
   - Introduction: index.md
+  - Contacts: contacts.md
 
 plugins:
   - techdocs-core
