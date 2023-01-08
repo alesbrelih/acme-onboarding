@@ -1,0 +1,8 @@
+site_name: "onboarding-process"
+site_description: "Onboarding process for the ACME Dynamite coorporation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

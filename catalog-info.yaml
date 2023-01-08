@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "onboarding-process"
+  description: "Onboarding process for the ACME Dynamite coorporation"
+  annotations:
+    github.com/project-slug: alesbrelih/acme-onboarding
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Acme HR"
